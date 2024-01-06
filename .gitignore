@@ -1,0 +1,6 @@
+# System files
+.DS_Store
+
+# Compiled code
+/dist
+dist.zip
