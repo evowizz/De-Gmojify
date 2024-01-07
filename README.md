@@ -1,4 +1,5 @@
 # De-Gmojify
+[![GitHub Release](https://img.shields.io/github/v/release/evowizz/De-Gmojify)]()
 
 ## Description
 This small Google Chrome extension removes the 'Add Reaction' button from Gmail™. No need to worry about accidentally clicking it anymore!
